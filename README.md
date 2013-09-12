@@ -1,4 +1,4 @@
-php-cachetoolkit
+php-cachekeeper
 ================
 
-A few cache implementations for PHP
+A cache library to keep data cached.
